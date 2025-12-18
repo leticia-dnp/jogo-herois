@@ -1,3 +1,3 @@
 Este é meu 3° Projeto do Bootcamp Santander e consiste em implementar uma classe genérica Heroi em JavaScript, representando personagens de um jogo de aventura. 
-Cada herói possui nome, idade e tipo, e o método atacar() exibe uma mensagem específica dependendo do tipo do herói (mago usa magia, guerreiro usa espada, monge usa artes marciais e ninja usa shuriken). 
+Cada herói possui nome, idade e tipo, e o método atacar exibe uma mensagem específica dependendo do tipo do herói (mago usa magia, guerreiro usa espada, monge usa artes marciais e ninja usa shuriken). 
 O projeto tem como objetivo aplicar conceitos de classes, objetos, métodos, variáveis, operadores, estruturas de decisão e laços de repetição, consolidando habilidades de programação orientada a objetos e lógica de desenvolvimento de jogos.
